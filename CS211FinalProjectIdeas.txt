@@ -1,0 +1,46 @@
+﻿Austin Chambers
+Carah Alexander
+
+
+Idea #1 Alice in Wonderland Race:
+------------------------------------------------
+* Idea: One big player and one small player work together to run through a maze that neither can complete alone. Areas that only big player can cross or small player can move through. Players can “snap” to each other’s location. Speed based. Uses 
+* 2 players
+* Physics/ Blueprints/ Blueprint communication
+* Additional Technique: 
+
+
+
+
+Idea #2 Eeerie PacMan: 
+--------------------------------
+* Players play as PacMan and complete as many rounds as necessary in chosen time span to get highest score. Slenderman-esque in usage of darkness in maze. Mazes are separate. Players do not interact directly except in stats updates and determining winner.
+* 2-4 players
+* Uses BluePrints and Blueprint communication. 
+* Additional Technique: AI to determine movement of “ghosts”
+
+
+
+
+Idea #3: Multiplayer Submarine Game
+-----------------------------------
+* Players are placed in a dark underwater environment. There are limited resources and players need to use stealth to be able to survive. For example, you could choose to turn off your lights (and see less) to launch a torpedo that takes out your enemy. The game will play on themes of light/dark, occlusion, and as a result, players will need to use their hearing a great deal.
+* 2-4 players
+* Networking / Blueprint Communication / Physics / Materials 
+* Additional Technique: Volumetric/Underwater Lighting / Oculus Sound SDK
+
+
+Idea #4: Robot Chat
+-----------------------------------
+* Players will be situated at a table, except they will be robots. You can see where    they are looking and where their arms are and what not. Why robots? Because it prevents the weird "uncanny valley" that you'd experience in VR when using people avatars. Also, the most important thing is that people can chat using their microphone. If we don't show their lips moving, this would be really, really weird. Using robots, we can do something kind of like an equalizer. For bonus points, maybe add some additional interaction (like cards). 
+* 2-4 players
+* Networking / Blueprint Communication / Materials / Maya / Materials
+* Additional Technique: Kinect Support
+
+
+Idea #5: TV
+-----------
+* Watch TV with your friend. This may take some fancy C++ to synchronize, but the idea is simple:  virtual cinema, but networked. You get into a theater with your friend and then load up some media file (it'd be bonus to add Netflix support). The player would be represented as an avatar so that you can look at them and talk to them. Maybe we'd use bots, like described above to avoid "uncanny valley" avatars. 
+* 2-4 players
+* Networking / Materials / Maya
+* Additional Technique: C++
